@@ -19,6 +19,6 @@ python manage.py createsuperuser<br><br>
 *Run the development server*:<br>
 python manage.py runserver<br>
 Open your web browser and go to http://localhost:8000/ to perform CRUD Operations.<br>
-Open your web browser and go to http://localhost:8000/admin to log in to the Django admin.<br>
+Open your web browser and go to http://localhost:8000/admin/ to log in to the Django admin.<br>
 Open your web browser and go to http://localhost:8000/Products/ to acess the API.<br>
 
